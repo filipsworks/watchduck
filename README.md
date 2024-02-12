@@ -8,3 +8,5 @@ Basically add more containers and host-accessible urls to be monitored and run t
 containers["container_name"]="scheme://address:port/url"
 
 The DUCK is watching.
+
+<img width="1009" alt="image" src="https://github.com/filipsworks/watchduck/assets/47939098/f60c1f44-1cb7-4265-af50-ce038523ea83">
